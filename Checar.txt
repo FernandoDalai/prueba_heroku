@@ -1,0 +1,5 @@
+- Checar Navbar cuando se hace pequeña la pagina
+
+
+
+Listar toda las fuentes
